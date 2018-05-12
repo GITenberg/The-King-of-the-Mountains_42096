@@ -1,0 +1,41 @@
+_repo: The-King-of-the-Mountains_42096
+_version: 0.1.0
+alternative_title: Le roi des montagnes. English
+contributor:
+  translator:
+    agent_name: Kingsbury, Carlton A., Mrs.
+    alias: Kingsbury, Mrs. Carlton A.
+    gutenberg_agent_id: '36718'
+    url: http://www.gutenberg.org/2009/agents/36718
+covers:
+- cover_type: archival
+  image_path: 42096-h/images/cover.jpg
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - About, Edmond François Valentin
+    - About, Edmond Francois Valentin
+    - Ampou, Edmondos
+    - About, E. (Edmond)
+    - Abu, Edmond
+    - Avout, Edmondos
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+description: ''
+gutenberg_issued: '2013-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Brigands and robbers -- Fiction'
+title: The King of the Mountains
+url: http://www.gutenberg.org/ebooks/42096
